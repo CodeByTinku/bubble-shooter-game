@@ -13,8 +13,10 @@ Welcome to the Bubble Shooter Game — a fun and interactive browser-based game 
 - **CSS** for styling and visual effects
 - **JavaScript** for interactive game logic and DOM manipulation
 ---
-## 📂 Project Structure
+## 🚀 Live Demo
+Experience the *game* in action 👉 [Play Now on Vercel](https://bubble-shooter-game-five.vercel.app)
 
+## 📂 Project Structure
 ```
 bubble-shooter-game/
 ├── bubble.html
